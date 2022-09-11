@@ -162,5 +162,6 @@ int main()
 
 ##Array Of N Elements
 ```
-
+def f(num: Int): List[Int] = (0 until num).toList
+    def readInt(): Int = scala.io.StdIn.readInt()
 ```
